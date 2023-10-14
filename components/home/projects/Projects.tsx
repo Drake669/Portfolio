@@ -58,7 +58,7 @@ const projects = [
         Legalfind is a smart search engine for legal matters in Ghana.
         </p>
         <p>
-          I work primarily on the frontend which is built with react and styled with material ui.
+          I worked primarily on the frontend which is built with react and styled with material ui.
         </p>
         <p>
          The application features a search engine for searching for cases using advanced filters. Users can also create folders to store related legal cases. Users can also highlight and comment on legal cases
