@@ -38,7 +38,7 @@ const projects = [
         </p>
 
         <p>
-         Users can sign up as either a company or a talents. Company can search for talents based on skills, experience levels etc. Talents can also search for jobs posted by companies and apply various filters to the search. Talents can save the jobs they like to check them out later.
+         Users can sign up as either a company or a talent. Companies can search for talents based on skills, experience levels etc. Talents can also search for jobs posted by companies and apply various filters to the search. Talents can save the jobs they like to check out later.
         </p>
         
       </>
