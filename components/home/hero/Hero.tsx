@@ -19,7 +19,7 @@ export const Hero = () => {
         </Reveal>
         <Reveal>
           <p className={styles.aboutCopy}>
-            For the past five years, I&apos;ve been dedicated to developing impressive software, ranging from simple projects to complex, production-ready applications. In addition to my passion for software development, I also play online first-person shooter games🎮. If you share this interest, feel free to reach out so we can connect!
+            For the past four years, I&apos;ve been dedicated to developing impressive software, ranging from simple projects to complex, production-ready applications. In addition to my passion for software development, I also play online first-person shooter games🎮. If you share this interest, feel free to reach out so we can connect!
           </p>
         </Reveal>
         <Reveal>
