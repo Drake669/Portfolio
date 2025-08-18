@@ -75,9 +75,11 @@ export const Project = ({
               <h4>{title}</h4>
               <div className={styles.projectTitleLine} />
 
-              <Link href={code} target="_blank" rel="nofollow">
-                <AiFillGithub size="2.8rem" />
-              </Link>
+              {code && (
+                <Link href={code} target="_blank" rel="nofollow">
+                  <AiFillGithub size="2.8rem" />
+                </Link>
+              )}
 
               <Link href={projectLink} target="_blank" rel="nofollow">
                 <AiOutlineExport size="2.8rem" />

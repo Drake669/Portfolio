@@ -13,28 +13,35 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-              Hey! I&apos;m Evans, if you haven&apos;t already gathered that by
-              now. I&apos;m a software engineer from Accra,
-              Ghana. I specialize in the frontend, primarily React and Vue, but
-              love building with whatever tools are right for the job.
+              Hi, I’m Evans. I’m a software engineer from Accra, Ghana with a
+              strong focus on fullstack development, specializing in frontend
+              technologies like React, Vue, and NextJS, while also working with
+              backend tools such as Node.js, Express, and Golang.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I currently work for Built Financial Technologies as a Frontend Developer. 
+              I currently work as a Fullstack Developer at Kwame AI, where I
+              collaborate with AI and data engineers to build tools for legal
+              professionals and students. My work includes creating a drafting
+              feature for legal documents, implementing real-time AI streaming,
+              and developing a WhatsApp-integrated bot that enables students to
+              prepare for exams directly from their phones.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              Outside of work, I still love to work on personal projects and configure my neovim editor(Yeah I am that guy). Any given weekend
-              you&apos;ll find me reading through documentations for new plugnins for neovim or just working on personal projects in Golang(currently learning GO).
+              Outside of work, I enjoy building personal projects such as a Go
+              interpreter and backend systems, while also spending time
+              configuring Neovim (yes, I’m that guy who loves reading
+              documentation for new plugins).
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I&apos;m looking for new positions where I can merge my
-              love for code with my love for learning new things. If you think
-              you&apos;ve got an opening that I might like, let&apos;s connect
+              I’m seeking new opportunities where I can merge my love for
+              building software with my curiosity for learning new technologies.
+              If you have an opening that sounds like a good fit, let’s connect.
               🔗
             </p>
           </Reveal>
